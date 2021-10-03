@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/j12_Loops/j12_Loops.iml" filepath="$PROJECT_DIR$/j12_Loops/j12_Loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/j15_arrays/j15_arrays.iml" filepath="$PROJECT_DIR$/j15_arrays/j15_arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/j17_String/j17_String.iml" filepath="$PROJECT_DIR$/j17_String/j17_String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j18_wrapper/j18_wrapper.iml" filepath="$PROJECT_DIR$/j18_wrapper/j18_wrapper.iml" />
     </modules>
   </component>
 </project>
