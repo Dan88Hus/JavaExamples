@@ -41,8 +41,22 @@ System.out.println(food.get(0));
 //-----------------
 //2DArrayList = a dynamic list of lists
 //        you can change the size of these lists during runtime
+        ArrayList<ArrayList<String>> groceryList = new ArrayList();
+ArrayList<String> bakeryList = new ArrayList();
+bakeryList.add("pasta");
+bakeryList.add("garlic bread");
+        System.out.println(bakeryList.get(0));
+// ArrayList , they can be in different sizes
+ArrayList<String> produceList = new ArrayList();
+        produceList.add("pastaProduce");
+        produceList.add("garlic breadProduce");
+        System.out.println(produceList.get(0));
 
-
+// and we merge them together in ArrayList
+        groceryList.add(bakeryList);
+        groceryList.add(produceList);
+        System.out.println(groceryList); // [[pasta, garlic bread], [pastaProduce, garlic breadProduce]]
+        System.out.println(groceryList.get(0).get(1)); //garlic bread
 
     }
 }
