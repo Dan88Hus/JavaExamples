@@ -23,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/j29_overLoadedConstructor/j29_overLoadedConstructor.iml" filepath="$PROJECT_DIR$/j29_overLoadedConstructor/j29_overLoadedConstructor.iml" />
       <module fileurl="file://$PROJECT_DIR$/j31_arrayOfObjects/j31_arrayOfObjects.iml" filepath="$PROJECT_DIR$/j31_arrayOfObjects/j31_arrayOfObjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/j32_objectPassingArguments/j32_objectPassingArguments.iml" filepath="$PROJECT_DIR$/j32_objectPassingArguments/j32_objectPassingArguments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j34_inheritance/j34_inheritance.iml" filepath="$PROJECT_DIR$/j34_inheritance/j34_inheritance.iml" />
     </modules>
   </component>
 </project>
