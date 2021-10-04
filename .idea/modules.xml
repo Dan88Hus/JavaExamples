@@ -21,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/j27_Constructors/j27_Constructors.iml" filepath="$PROJECT_DIR$/j27_Constructors/j27_Constructors.iml" />
       <module fileurl="file://$PROJECT_DIR$/j28_variableScope/j28_variableScope.iml" filepath="$PROJECT_DIR$/j28_variableScope/j28_variableScope.iml" />
       <module fileurl="file://$PROJECT_DIR$/j29_overLoadedConstructor/j29_overLoadedConstructor.iml" filepath="$PROJECT_DIR$/j29_overLoadedConstructor/j29_overLoadedConstructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j31_arrayOfObjects/j31_arrayOfObjects.iml" filepath="$PROJECT_DIR$/j31_arrayOfObjects/j31_arrayOfObjects.iml" />
     </modules>
   </component>
 </project>
