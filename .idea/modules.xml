@@ -32,6 +32,7 @@
       <module fileurl="file://$PROJECT_DIR$/j41_inheritance/j41_inheritance.iml" filepath="$PROJECT_DIR$/j41_inheritance/j41_inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/j42_polyMorphism/j42_polyMorphism.iml" filepath="$PROJECT_DIR$/j42_polyMorphism/j42_polyMorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/j44_exceptionHandling/j44_exceptionHandling.iml" filepath="$PROJECT_DIR$/j44_exceptionHandling/j44_exceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j49_GUI_JFrame/j49_GUI_JFrame.iml" filepath="$PROJECT_DIR$/j49_GUI_JFrame/j49_GUI_JFrame.iml" />
     </modules>
   </component>
 </project>
