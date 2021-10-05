@@ -25,4 +25,9 @@ public class Car {
     public void setYear(int year) {
         this.year = year;
     }
+    public void copyMETHOD(Car x){
+        this.setYear(x.getYear()); //this refers to car2
+        this.make = x.make;
+        this.model = x.model;
+    }
 }

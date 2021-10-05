@@ -29,6 +29,7 @@
       <module fileurl="file://$PROJECT_DIR$/j37_abstraction/j37_abstraction.iml" filepath="$PROJECT_DIR$/j37_abstraction/j37_abstraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/j38_accessModifiers/j38_accessModifiers.iml" filepath="$PROJECT_DIR$/j38_accessModifiers/j38_accessModifiers.iml" />
       <module fileurl="file://$PROJECT_DIR$/j39_encapsulation/j39_encapsulation.iml" filepath="$PROJECT_DIR$/j39_encapsulation/j39_encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j41_inheritance/j41_inheritance.iml" filepath="$PROJECT_DIR$/j41_inheritance/j41_inheritance.iml" />
     </modules>
   </component>
 </project>
