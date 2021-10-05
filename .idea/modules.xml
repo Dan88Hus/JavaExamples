@@ -30,6 +30,8 @@
       <module fileurl="file://$PROJECT_DIR$/j38_accessModifiers/j38_accessModifiers.iml" filepath="$PROJECT_DIR$/j38_accessModifiers/j38_accessModifiers.iml" />
       <module fileurl="file://$PROJECT_DIR$/j39_encapsulation/j39_encapsulation.iml" filepath="$PROJECT_DIR$/j39_encapsulation/j39_encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/j41_inheritance/j41_inheritance.iml" filepath="$PROJECT_DIR$/j41_inheritance/j41_inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j42_polyMorphism/j42_polyMorphism.iml" filepath="$PROJECT_DIR$/j42_polyMorphism/j42_polyMorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j44_exceptionHandling/j44_exceptionHandling.iml" filepath="$PROJECT_DIR$/j44_exceptionHandling/j44_exceptionHandling.iml" />
     </modules>
   </component>
 </project>
